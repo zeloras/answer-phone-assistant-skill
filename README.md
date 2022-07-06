@@ -5,7 +5,7 @@ Take a call, ask questions for caller and record call and send to the telegram
 Later...
 
 ## Examples
-* "Hello ало да yo hey ау"
+* "Hello"
 * "Ало"
 * "Да"
 * "Hey"
